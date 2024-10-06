@@ -1,51 +1,66 @@
 
-# Questions
+# Problems
 
 ## Easy
-- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)<br>
-- [x] [Majority Element](https://leetcode.com/problems/majority-element/)<br>
-- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>
-- [x] (Cyclic Sort) [Missing Number](https://leetcode.com/problems/missing-number/)<br>
-- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)(ans already present in array and searching repo)<br> 
-- [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)(ans already present in array and searching repo)<br> 
-- [x] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)<br>
-- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies/)<br>
-- [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i/)<br>
-- [ ] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)<br>
-- [ ] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)<br>
-- [ ] [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)<br>
-- [ ] [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)<br>
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)<br>
-- [ ] [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)<br>
-- [ ] [Height Checker](https://leetcode.com/problems/height-checker/)<br>
-- [ ] [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)<br>
-- [ ] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)<br>
-- [ ] [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)<br>
-- [ ] [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)<br>
-- [ ] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)<br>
-- [ ] [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)<br>
-- [ ] [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)<br>
-- [ ] [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)<br>
-- [ ] [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)<br>
-- [ ] [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)<br>
-- [ ] [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)<br>
-- [x] (Cyclic Sort) [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)<br>
-- [x] (Cyclic Sort) [Set Mismatch](https://leetcode.com/problems/set-mismatch/)<br>
-- [ ] [2Sum](https://leetcode.com/problems/two-sum/)<br>
+
+- [x] [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [x] [Shuffle String](https://leetcode.com/problems/shuffle-string/)
+- [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+- [x] [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+- [x] [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
+- [x] [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+- [x] [To Lower Case](https://leetcode.com/problems/to-lower-case/)
+- [x] [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
+- [x] [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) `salesforce` `quip`
+- [x] `1967`[Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
+- [x] `657`[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+- [x] `557`[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) `apple` `paypal` `ebay`
+- [ ] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+- [x] `28`[Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [ ] [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) `facebook` `yahoo` `google`
+- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [ ] [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
+- [ ] [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
+- [ ] [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+- [ ] [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
+- [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Medium
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)<br>
-- [ ] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)<br>
-- [ ] [4Sum](https://leetcode.com/problems/4sum/)<br>
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)<br>
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)<br>
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)<br>
-- [ ] [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)<br>
-- [ ] [Sort List](https://leetcode.com/problems/sort-list/)<br>
-- [ ] [Largest Number](https://leetcode.com/problems/largest-number/)<br>
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
-- [x] (Cyclic Sort) [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)<br>
-- [x] (Cyclic Sort) [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)<br>
 
+- [ ] [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
+- [x] [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
+- [ ] [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
+- [ ] [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
+- [ ] [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
+- [x] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) `Amazon`
+- [ ] [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
+- [ ] [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
+- [x] (VIMP)[Multiply Strings](https://leetcode.com/problems/multiply-strings/) `amazon` `Apple` `Bytedance` `Expedia` `faceboook` `google` `Mathworks` `Microsoft` `oracle` `square` `twitter` `uber` `zillow`
+- [ ] [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+- [ ] [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
+- [ ] [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
+- [ ] [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+- [ ] [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
+- [ ] [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+- [ ] [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+- [ ] [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
+- [ ] [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
+- [ ] [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
+- [x] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) `Accolite` `Adobe` `Amazon` `Cisco` `Goldman Sachs` `MakeMyTrip` `MAQ` `Microsoft` `Morgan Stanley` `Paytm` `PayU` `SAP Labs` `Wipro` `Zoho`
 ## Hard
-- [x] (Cyclic Sort) [First missing Positive](https://leetcode.com/problems/first-missing-positive/) `Amazon` `Array` `cyclic sort`
+
+- [ ] [Valid Number](https://leetcode.com/problems/valid-number/)
+- [ ] [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+- [ ] [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+- [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+- [ ] [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
+- [ ] [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)
+- [ ] [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+- [ ] [Special Binary String](https://leetcode.com/problems/special-binary-string/)
+
+# Additionally
+
+- [ ] [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
