@@ -1,20 +1,13 @@
-import java.util.HashSet;
-
-public class Contains_Duplicate {
-    public static void main(String[] args) {
-
-        int[] arr = {1,2,3,1};
-        boolean ans = containsDuplicate(arr);
-        System.out.println(ans);
+class Solution {
+    public boolean containsDuplicate(int[] nums) {
         
-    }
-
-    public static boolean containsDuplicate(int[] nums) {
-        HashSet <Integer> set = new HashSet<>();
-        for(int i : nums){
-            if(!set.add(i))
-                return true;
+        if(nums.length <= 1) return false;
+        
+        Arrays.sort(nums);
+        for(int i = 1; i < nums.length; i++) {
+            if(nums[i] == nums[i-1]) return true;
         }
         return false;
+        
     }
 }

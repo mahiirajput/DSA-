@@ -1,42 +1,51 @@
 
+# Questions
 
-### Easy 
-- [x] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
-- [x] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
-- [x] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
-- [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
-- [x] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
-- [x] [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-- [x] [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
-- [x] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-- [x] [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
-- [x] [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
-- [x] [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
-- [x] [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
-- [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-- [ ] [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
-- [ ] [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
-- [x] [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
-- [ ] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
-- [ ] [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
-- [ ] [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
-- [ ] [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [x] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-- [ ] [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-### Medium
-- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
-- [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+## Easy
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)<br>
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)<br>
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>
+- [x] (Cyclic Sort) [Missing Number](https://leetcode.com/problems/missing-number/)<br>
+- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)(ans already present in array and searching repo)<br> 
+- [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)(ans already present in array and searching repo)<br> 
+- [x] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)<br>
+- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies/)<br>
+- [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i/)<br>
+- [ ] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)<br>
+- [ ] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)<br>
+- [ ] [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)<br>
+- [ ] [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)<br>
+- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)<br>
+- [ ] [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)<br>
+- [ ] [Height Checker](https://leetcode.com/problems/height-checker/)<br>
+- [ ] [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)<br>
+- [ ] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)<br>
+- [ ] [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)<br>
+- [ ] [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)<br>
+- [ ] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)<br>
+- [ ] [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)<br>
+- [ ] [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)<br>
+- [ ] [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)<br>
+- [ ] [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)<br>
+- [ ] [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)<br>
+- [ ] [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)<br>
+- [x] (Cyclic Sort) [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)<br>
+- [x] (Cyclic Sort) [Set Mismatch](https://leetcode.com/problems/set-mismatch/)<br>
+- [ ] [2Sum](https://leetcode.com/problems/two-sum/)<br>
 
-### Hard
-- [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-- [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) `Amazon` `Array` `cyclic sort`
-- [ ] [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+## Medium
+- [ ] [3Sum](https://leetcode.com/problems/3sum/)<br>
+- [ ] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)<br>
+- [ ] [4Sum](https://leetcode.com/problems/4sum/)<br>
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)<br>
+- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)<br>
+- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)<br>
+- [ ] [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)<br>
+- [ ] [Sort List](https://leetcode.com/problems/sort-list/)<br>
+- [ ] [Largest Number](https://leetcode.com/problems/largest-number/)<br>
+- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
+- [x] (Cyclic Sort) [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)<br>
+- [x] (Cyclic Sort) [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)<br>
+
+## Hard
+- [x] (Cyclic Sort) [First missing Positive](https://leetcode.com/problems/first-missing-positive/) `Amazon` `Array` `cyclic sort`
